@@ -18,13 +18,3 @@ The `models` directory includes various neural network architectures:
 - `DenseNet.py`: DenseNet model.
 - `__init__.py`: Initialization file for the models module.
 
-## Setup and Execution
-
-To run the project, clone the repository and navigate to the root directory. Ensure you have the required dependencies installed.
-
-```bash
-git clone [repository URL]
-cd [repository directory]
-```
-
-Run the `main.py` script to start the project:
